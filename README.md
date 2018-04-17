@@ -1,2 +1,2 @@
 # codeclub-challenge 
-I am trying to solve all the challenges in Trinket
+The second challenge in codeClub sight
